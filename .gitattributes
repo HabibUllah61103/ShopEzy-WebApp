@@ -1,1 +1,3 @@
 .glft filter=lfs diff=lfs merge=lfs -text
+*.glft filter=lfs diff=lfs merge=lfs -text
+public filter=lfs diff=lfs merge=lfs -text
