@@ -1,11 +1,3 @@
-Model Information:
-* title:	VR Glasses Model
-* source:	https://sketchfab.com/3d-models/vr-glasses-model-7c50fdeae03047869ac45d5952619052
-* author:	yan.iogan (https://sketchfab.com/yan.iogan)
-
-Model License:
-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-* requirements:	Author must be credited. Commercial use is allowed.
-
-If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "VR Glasses Model" (https://sketchfab.com/3d-models/vr-glasses-model-7c50fdeae03047869ac45d5952619052) by yan.iogan (https://sketchfab.com/yan.iogan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+version https://git-lfs.github.com/spec/v1
+oid sha256:29bd9095cc7f5cdd8a122f3de0576c5cff7c130cdd44250bbf48ad1fd4160c3f
+size 688
